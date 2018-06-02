@@ -1,0 +1,19 @@
+{
+  "name": "react-native-content-load",
+  "version": "0.0.3",
+  "description": "react native ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "crayonn",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.6.1"
+  },
+  "devDependencies": {
+    "react": "^16.4.0",
+    "react-native": "^0.55.4",
+    "react-native-linear-gradient": "^2.4.0"
+  }
+}
