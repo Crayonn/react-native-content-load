@@ -11,6 +11,10 @@
   "dependencies": {
     "prop-types": "^15.6.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Crayonn/babel-plugin-react-add-data-id"
+  },
   "devDependencies": {
     "react": "^16.4.0",
     "react-native": "^0.55.4",
